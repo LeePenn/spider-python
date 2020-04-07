@@ -1,0 +1,2063 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>勇者赫鲁库【1-106话 全是中文】【已完结】-1-9 - zero搬运网 - zerobyw  </title>
+<meta name="renderer" content="webkit" />
+<meta name="keywords" content="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9-zero搬运网" />
+<meta name="description" content="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9-zero搬运网" />
+<meta name="generator" content="Discuz! X3.4" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2017 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://www.zerobyw4.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?Z7S" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z7S', charset = 'utf-8', discuz_uid = '0', cookiepre = 'kd5S_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|,2|金钱|,3|贡献|,4|zerob|', defaultstyle = '', REPORTURL = 'aHR0cDovL3d3dy56ZXJvYnl3NC5jb20vcGx1Z2luLnBocD9pZD1qYW1lc29uX21hbmh1YSZhPXJlYWQmemppZD02ODU3Nw==', SITEURL = 'http://www.zerobyw4.com/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?Z7S" type="text/javascript"></script>
+<meta name="application-name" content="zero搬运网" />
+<meta name="msapplication-tooltip" content="zero搬运网" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://www.zerobyw4.com/forum.php;icon-uri=http://www.zerobyw4.com/static/image/common/bbs.ico" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_1_widthauto.css?Z7S' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+</head>
+<body id="nv_plugin" class="pg_jameson_manhua" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;" onclick="setHomepage('http://www.zerobyw4.com/');">设为首页</a><a href="http://www.zerobyw4.com/" onclick="addFavorite(this.href, 'zero搬运网');return false;">收藏本站</a><a href="/plugin.php?id=jameson_manhua&c=index&a=ku">在线生日本肉漫画</a>
+<a href="http://tw.zerobyw4.com/plugin.php?id=jameson_manhua&a=read&zjid=68577">繁体版</a>
+</div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+</div>
+</div>
+</div>
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">立即注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="zero搬运网"><img src="static/image/common/logo.png" alt="zero搬运网" border="0" /></a></h2><script src="data/cache/logging.js?Z7S" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">立即注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+</div>
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul><li id="mn_N0e9f"><a href="/plugin.php?id=jameson_manhua&c=index&a=index&ku" hidefocus="true" title="都是站长自己收集的，别的地方都是采集，没这些资源的" style="color: yellow">在线日本生肉漫画<span>都是站长自己收集的，别的地方都是采集，没这些资源的</span></a></li><li id="mn_N1721"><a href="/plugin.php?id=keke_group" hidefocus="true" style="color: yellow">去广告VIP</a></li><li id="mn_N7b93"><a href="/forum.php?mod=viewthread&tid=52940&extra=page%3D1" hidefocus="true">app和ios下载</a></li><li id="mn_Nc4f5"><a href="forum.php?mod=viewthread&tid=1076&page=1&extra=#pid1504" hidefocus="true">解决图片不显示</a></li><li id="mn_N9878"><a href="/forum.php?mod=forumdisplay&fid=70" hidefocus="true">求漫画搬运</a></li><li id="mn_N1a2c"><a href="/forum.php?mod=viewthread&tid=1069&page=1&extra=#pid1425" hidefocus="true">paypal买vip</a></li><li id="mn_N9ba9"><a href="/forum.php?mod=viewthread&tid=53046&page=1&extra=#pid54432" hidefocus="true">购买图源</a></li><li id="mn_N76a5"><a href="/forum.php?mod=viewthread&tid=53596&page=1#pid55633" hidefocus="true">忘记密码</a></li><li id="mn_forum"><a href="forum.php" hidefocus="true" title="BBS">论坛<span>BBS</span></a></li></ul>
+</div>
+<div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="0d212c46" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="plugin::jameson_manhua" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+<div id="wp" class="wp">
+<style type="text/css">
+    #hd, #toptb, #myprompt_menu{display: none;}
+    body{background-image: none; }
+</style>
+<link rel="stylesheet" type="text/css" href="http://www.zerobyw4.com/source/plugin/jameson_manhua/images/uk/css/uikit.css?version=172">
+<link rel="stylesheet" type="text/css" href="http://www.zerobyw4.com/source/plugin/jameson_manhua/template/custom.css?version=173">
+<link href="http://www.zerobyw4.com/source/plugin/jameson_manhua/images/unslider.css?version=171" rel="stylesheet">
+<script src="http://www.zerobyw4.com/source/plugin/jameson_manhua/images/jquery.min.js?version=171" type="text/javascript"></script>
+<script type="text/javascript">
+
+var xfmh = jQuery.noConflict(true);
+
+(window.jQuery && jQuery().jquery > '2.0.0') || (window.jQuery = xfmh);
+
+</script>
+<style>
+  #jameson_manhua.read{max-width:100%;width:100%;}
+  #jameson_manhua.read > .uk-navbar-container.read{width:1200px;}
+  #jameson_manhua.read > .uk-breadcrumb {width:1200px}
+</style>
+<script src="http://www.zerobyw4.com/source/plugin/jameson_manhua/images/unslider.js?version=171" type="text/javascript"></script>
+<script src="http://www.zerobyw4.com/source/plugin/jameson_manhua/images/uk/js/uikit.js?version=171" type="text/javascript"></script>
+<script src="http://www.zerobyw4.com/source/plugin/jameson_manhua/images/uk/js/uikit-icons.js?version=171" type="text/javascript"></script>
+<div class="jameson_manhua mt5 mbm " id="jameson_manhua">
+<nav class="uk-navbar-container sp-nav uk-navbar-transparent " uk-navbar>
+<div class="nav-overlay uk-navbar-left">
+<ul class="uk-navbar-nav">
+<li class=" ">
+<a href="./plugin.php?id=jameson_manhua&amp;c=index&amp;a=ku">首页</a>
+</li>
+</ul>
+</div>
+<div>
+<form id="searchform" class="uk-search uk-search-navbar" action="./plugin.php?id=jameson_manhua&amp;c=index&amp;a=search">
+<a href="javascript:jamesonmanhua.search();" class="uk-search-icon-flip xs2" uk-search-icon style="width: 20px;right: 5px;"></a>
+<input type="hidden" name="id" value="jameson_manhua">
+<input type="hidden" name="a" value="search">
+<input type="hidden" name="c" value="index">
+<input name="keyword" class="uk-search-input xs2" style="height: 35px;border:1px solid #ccc;margin: 5px;" type="search" placeholder="搜索漫画" autofocus>
+</form>
+</div>
+<div class="uk-navbar-right" {7==1 && && read=='bofang'}>
+<a class="uk-navbar-toggle" uk-tooltip title="全部漫画" href="./plugin.php?id=jameson_manhua&amp;c=index&amp;a=ku" uk-icon="icon: database"></a>
+</ul>
+</div>
+</nav>
+<ul class="uk-breadcrumb pl8 ">
+<li><a href="./plugin.php?id=jameson_manhua">
+<span uk-icon="icon:home" class="mt-6"></span>首页</a></li>
+<li><a href="./plugin.php?id=jameson_manhua&amp;a=rootcategory&amp;category_id=22">冒险</a></li>
+<li><a href="./plugin.php?id=jameson_manhua&amp;a=category&amp;category_id=26">战斗</a></li>
+<li><a href="./plugin.php?id=jameson_manhua&amp;a=bofang&amp;kuid=2467">勇者赫鲁库【1-106话 全是中文】【已完结】</a></li>
+<li><span>1-9</span></li>
+</ul>
+<div class="uk-margin-top">
+<h3 class="uk-heading-line uk-text-center"><span>1-9</span></h3>
+<div class="uk-grid-collapse" uk-grid>
+<div class="uk-text-left ptm pb0 mb0 uk-width-1-4">
+<span class="uk-badge ml8">本章 200 图</span>
+<a href="javascript:;" uk-toggle="target: #touhudongpiao" class="uk-button uk-text-danger">打赏</a>
+</div>
+<div class="uk-width-1-4 uk-text-center">
+</div>
+<div class="uk-text-right uk-width-1-2">
+<a href="./plugin.php?id=jameson_manhua&amp;a=read&amp;zjid=68556" class="uk-button">
+下一章
+<span class="" uk-icon="icon:chevron-right"></span>
+</a>
+<a href="javascript:;" uk-tooltip title="开关灯" class="uk-icon-button uk-margin-small-right" uk-icon="icon:settings" onclick="jamesonmanhua.kaiguan(this)" data-status="1"></a>
+<a href="javascript:;" uk-tooltip title="切换到幻灯模式" class="uk-icon-button uk-margin-small-right" uk-icon="icon:arrow-down" onclick="jamesonmanhua.moshi(2)"></a>
+<a href="javascript:;" class="uk-button uk-button-danger" onclick="togglequanping(this)">切换全屏</a>
+</div>
+</div>
+<div class="uk-zjimg uk-text-center uk-padding uk-margin-top uk-margin-bottom uk-inline">
+<div class="uk-text-center mb0">
+<img onload="this.style.height='auto'" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/001.png" data-src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/001.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">1/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/002.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">2/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/003.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">3/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/004.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">4/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/005.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">5/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/006.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">6/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/007.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">7/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/008.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">8/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/009.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">9/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/010.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">10/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/011.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">11/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/012.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">12/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/013.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">13/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/014.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">14/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/015.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">15/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/016.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">16/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/017.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">17/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/018.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">18/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/019.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">19/200</div>
+</div>
+ <div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/020.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">20/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/021.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">21/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/022.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">22/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/023.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">23/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/024.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">24/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/025.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">25/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/026.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">26/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/027.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">27/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/028.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">28/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/029.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">29/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/030.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">30/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/031.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">31/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/032.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">32/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/033.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">33/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/034.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">34/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/035.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">35/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/036.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">36/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/037.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">37/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/038.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">38/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/039.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">39/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/040.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">40/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/041.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">41/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/042.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">42/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/043.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">43/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/044.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">44/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/045.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">45/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/046.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">46/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/047.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">47/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/048.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">48/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/049.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">49/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/050.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">50/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/051.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">51/200</div>
+ </div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/052.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">52/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/053.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">53/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/054.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">54/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/055.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">55/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/056.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">56/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/057.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">57/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/058.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">58/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/059.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">59/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/060.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">60/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/061.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">61/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/062.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">62/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/063.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">63/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/064.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">64/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/065.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">65/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/066.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">66/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/067.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">67/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/068.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">68/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/069.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">69/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/070.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">70/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/071.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">71/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/072.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">72/200</div>
+</div>
+<div class="uk-text-center mb0">
+ <img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/073.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">73/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/074.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">74/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/075.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">75/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/076.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">76/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/077.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">77/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/078.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">78/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/079.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">79/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/080.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">80/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/081.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">81/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/082.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">82/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/083.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">83/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/084.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">84/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/085.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">85/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/086.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">86/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/087.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">87/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/088.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">88/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/089.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">89/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/090.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">90/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/091.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">91/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/092.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">92/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/093.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">93/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/094.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">94/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/095.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">95/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/096.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">96/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/097.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">97/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/098.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">98/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/099.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">99/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/100.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">100/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/101.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">101/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/102.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">102/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/103.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">103/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/104.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">104/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/105.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">105/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/106.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">106/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/107.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">107/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/108.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">108/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/109.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">109/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/110.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">110/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/111.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">111/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/112.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">112/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/113.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">113/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/114.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">114/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/115.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+ <div class="uk-text-center xg1 xs2">115/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/116.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">116/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/117.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">117/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/118.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">118/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/119.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">119/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/120.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">120/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/121.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">121/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/122.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">122/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/123.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">123/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/124.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">124/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/125.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">125/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/126.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">126/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/127.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">127/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/128.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">128/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/129.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">129/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/130.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">130/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/131.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">131/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/132.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">132/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/133.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">133/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/134.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">134/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/135.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">135/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/136.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">136/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/137.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">137/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/138.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">138/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/139.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">139/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/140.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">140/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/141.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">141/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/142.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">142/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/143.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">143/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/144.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">144/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/145.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">145/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/146.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">146/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/147.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">147/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/148.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">148/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/149.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">149/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/150.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">150/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/151.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">151/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/152.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">152/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/153.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">153/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/154.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">154/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/155.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">155/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/156.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">156/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/157.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">157/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/158.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">158/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/159.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">159/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/160.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">160/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/161.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">161/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/162.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">162/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/163.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">163/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/164.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">164/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/165.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">165/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/166.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">166/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/167.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">167/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/168.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">168/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/169.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">169/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/170.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">170/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/171.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">171/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/172.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">172/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/173.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">173/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/174.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">174/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/175.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">175/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/176.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">176/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/177.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">177/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/178.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">178/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/179.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">179/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/180.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">180/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/181.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">181/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/182.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">182/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/183.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">183/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/184.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">184/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/185.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">185/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/186.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">186/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/187.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">187/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/188.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">188/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/189.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">189/200</div>
+</div>
+ <div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/190.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">190/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/191.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">191/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/192.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">192/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/193.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">193/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/194.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">194/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/195.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">195/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/196.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">196/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/197.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">197/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/198.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">198/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/199.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">199/200</div>
+</div>
+<div class="uk-text-center mb0">
+<img class="" src="http://mhua.zerobyw4.com/manhua/yon9zh9es6hel/1-9/200.png" alt="勇者赫鲁库【1-106话 全是中文】【已完结】-1-9">
+<div class="uk-text-center xg1 xs2">200/200</div>
+</div>
+</div>
+<div class="uk-text-center">
+<a href="./plugin.php?id=jameson_manhua&amp;a=bofang&amp;kuid=2467" class="uk-button uk-text-primary">[勇者赫鲁库【1-106话 全是中文】【已完结】目录]</a>
+<a href="./plugin.php?id=jameson_manhua&amp;a=read&amp;zjid=68556" class="uk-button">
+下一章
+<span class="" uk-icon="icon:chevron-right"></span>
+</a>
+</div>
+<div class="uk-margin-top uk-padding-small">
+<form class="" id="postshuping">
+<div class="uk-margin">
+<textarea class="uk-textarea" placeholder="评论一下" name="textvalue" id="pingluntext"></textarea>
+</div>
+<div class="uk-margin uk-text-right">
+<button class="uk-button uk-button-danger uk-button-small" type="button" onclick="jamesonmanhua.postpinglun()" id="submitshuping">提交</button>
+</div>
+</form>
+<div id="pinglunlist">
+<ul class="uk-comment-list pl0">
+</ul>
+</div>
+</div>
+
+</div>
+
+<div id="touhudongpiao" uk-modal="center: true">
+<div class="uk-modal-dialog">
+<button class="uk-modal-close-default" type="button" uk-close></button>
+<div class="uk-modal-body">
+<div class="uk-margin-top">
+<input type="number" placeholder="用金钱打赏" class="uk-input" id="dashangnum" style="display: inline-block;width: 60%;">
+<a href="javascript:;" onclick="jamesonmanhua.dashang()" class="uk-button uk-button-danger uk-text-center">打赏</a>
+</div>
+<div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    function guanbiadv(id){
+        document.getElementById(id).classList.add('none')
+    }
+   function togglequanping(el){
+     if(jQuery('#jameson_manhua').hasClass('read')){
+     	 jQuery(el).text('切换全屏')
+     }else{
+       jQuery(el).text('切换窄屏')
+     }
+   	 jQuery('#jameson_manhua').toggleClass('read')
+   }
+</script>
+<input type="hidden" id="dstramenum" value="0">
+</div>
+<div id="jamesonmanhua_zhezhao" class="none"></div>
+<script src="http://www.zerobyw4.com/source/plugin/jameson_manhua/images/lazysizes.min.js?version=171" type="text/javascript"></script>
+<script type="text/javascript">
+
+(window.jQuery && jQuery().jquery > '2.0.0') || (window.jQuery = xfmh);
+
+</script>
+<script type="text/javascript">
+var dwzlaurl = 0;
+var tiaozhuan = 0;
+var aggyid = '0';//id
+var dljfuwu = parseInt('1');// 1 dwz.la 2 ag.gy
+function chulires(data){
+if(data.errno == 0) {
+dwzlaurl = data.url;
+if(tiaozhuan===1){
+location.href = dwzlaurl;
+}
+　　}else{
+dwzlaurl = data.error;
+  if(tiaozhuan===1){
+  	alert(dwzlaurl)
+  }
+}
+}
+function getdwzurl(tz){
+if(dljfuwu==1){
+// 如果是 dwz.la
+jQuery.ajax({
+           url: 'http://dwz.la/short/?url=' + encodeURIComponent(location.href) + '&jf=1&format=jsonp&callback=chulires&u=',
+           type: "GET",
+           dataType: "jsonp", //指定服务器返回的数据类型
+           jsonpCallback:"chulires",
+           success: function (data) {}
+       });
+}else{
+// 如果是ag.gy
+dwzlaurl = 'http://adf.ly/'+aggyid+'/'+location.href;
+}
+}
+
+
+var slider = {};
+
+var jamesonmanhua = {
+
+uid:parseInt('0'),
+
+zjid:0,
+
+start:0,
+
+chongzhi:trim("home.php?mod=spacecp&ac=credit&op=buy"),
+tiaozhuandwa:function(em){
+UIkit.notification({message:'跳转中请等待...',status:"danger"});
+var self = jQuery(em);
+jQuery.post('./plugin.php?id=jameson_manhua:ajax', {
+optype:'setdwacookie',
+pageurl:encodeURIComponent(location.href),
+formhash:'0d212c46'
+},function(res) {
+if(res=='success'){
+if(/^http/i.test(dwzlaurl)){
+location.href = dwzlaurl;
+}else if(/^error/.test(dwzlaurl)){
+alert(dwzlaurl)
+}else{
+tiaozhuan=1;
+if(dljfuwu==1){
+// 如果是dwz.la
+getdwzurl(1)
+}else{
+dwzlaurl = 'http://adf.ly/'+aggyid+'/'+location.href;
+location.href = dwzlaurl
+}
+}
+}
+});
+},
+
+changecategory: function(e) {
+
+    var parent_id = parseInt(e.value);
+
+    var newid = e.id + '_menu';
+
+    jQuery.post('./plugin.php?id=jameson_manhua:ajax', {
+
+    	optype:'changecategory',
+
+    	parent_id:parent_id,
+
+    	formhash:'0d212c46'
+
+    },function(res) {
+
+        if (res == 'error') {
+
+            jamesonmanhua.tips('!qiehuanfenleishibai!', '#669933');
+
+        } else {
+
+            $(newid).innerHTML = res;
+
+        }
+
+    });
+
+},
+
+search:function(){
+
+jQuery("#searchform").submit()
+
+},
+
+tjwailian:function(id,kuid){
+
+var urls = trim(jQuery("#wailiantext_"+id).val());
+
+if(!urls || !/^http/.test(urls)){
+
+jamesonmanhua.tips('必须填写http开头的图片地址，如无此类地址，请点击上方【选择待上传的漫画图片】上传本地图片','#f00')
+
+return;
+
+}
+
+jamesonmanhua.tips('loading...')
+
+jQuery.post('./plugin.php',{
+
+id:'jameson_manhua:ajax',
+
+formhash:'0d212c46',
+
+optype:'uploadwailian',
+
+zjid:id,
+
+kuid:kuid,
+
+images:urls
+
+},function(res){
+
+UIkit.notification.closeAll();
+
+if(res=='error'){
+
+jamesonmanhua.tips('操作失败','#f00')
+
+}else{
+
+jQuery("#zj_"+id+'_images').append(res);
+
+jQuery("#wailiantext_"+id).val('');
+
+}
+
+});
+
+},
+
+leftright : function(e){
+
+var e = e || event;
+
+if(!jQuery("#nextbutton").length || (e.keyCode != 37 && (e.keyCode != 39))) return;
+
+var href = 0;
+
+if(e.keyCode == 37){
+
+href = jQuery("#prebutton").attr('href');
+
+}else if(e.keyCode == 39){
+
+href = jQuery("#nextbutton").attr('href');
+
+}
+
+if(href){
+
+location.href = href;
+
+}else{
+
+layer.msg('没有了',{icon:5});
+
+}
+
+},
+
+remove:function(type,id){
+
+if(!confirm('确认删除？')){
+
+return false;
+
+}
+
+jQuery.post('./plugin.php',{
+
+optype:'remove',
+
+formhash:'0d212c46',
+
+rmid:id,
+
+type:type,
+
+id:'jameson_manhua:ajax'
+
+},function(res){
+
+if(/^error/i.test(res)){
+
+jamesonmanhua.tips('操作失败'+(res!='error'?res:''),'#f00')
+
+}else{
+
+jQuery("#"+type+'_'+id).remove()
+
+}
+
+})
+
+},
+
+
+
+tips:function(message,color){
+
+UIkit.notification(message, {status: color=='#f00'?'danger':'success'})
+
+},
+
+hyh:function(){
+
+jQuery.post('./plugin.php',{
+
+optype:'rands',
+
+formhash:'0d212c46',
+
+id:'jameson_manhua:ajax'
+
+},function(res){
+
+if(res=='error'){
+
+jamesonmanhua.tips('操作失败','#f00')
+
+}else{
+
+jQuery("#randsmanhua").html(res)
+
+}
+
+})
+
+},
+
+avatar(auid,em){
+
+jQuery.post('./plugin.php',{
+
+optype:'avatar',
+
+formhash:'0d212c46',
+
+auid:auid,
+
+id:'jameson_manhua:ajax'
+
+},function(res){
+
+if(res=='error'){
+
+jamesonmanhua.tips('操作失败','#f00')
+
+}else{
+
+jQuery(em).parent().remove();
+
+jQuery("img[data-avatar='1']").attr('src',jQuery("img[data-avatar='1']").attr('data-src'))
+
+}
+
+})
+
+},
+
+login:function(){
+
+if (!jamesonmanhua.uid){
+
+ showWindow('login', 'member.php?mod=logging&action=login&referer=' + encodeURIComponent(location.href));
+
+ return false;
+
+}
+
+},
+
+morepinglun:function(em){
+
+var current = parseInt(jQuery("#currentpage").val());
+
+var pages = parseInt(jQuery("#totalpages").val());
+
+var kuid = parseInt(jQuery("#kuidinput").val());
+
+var zjid = parseInt(jQuery("#zjidinput").val());
+
+if(current >= pages){
+
+jQuery(em).text('没有了').attr('disabled','disabled')
+
+return false;
+
+}
+
+jQuery.post('./plugin.php',{
+
+id:'jameson_manhua:ajax',
+
+optype:'morepinglun',
+
+formhash:'0d212c46',
+
+page:current,
+
+kuid:kuid,
+
+zjid:zjid
+
+},function(res){
+
+if(res == 'error'){
+
+jamesonmanhua.tips('操作出错请重试','#f00')
+
+}else if(res=='meiyoule'){
+
+jQuery(em).text('没有了').attr('disabled','disabled');
+
+}else{
+
+jQuery('#pinglunlist ul').eq(0).append( res);
+
+current++;
+
+jQuery("#currentpage").val(current);
+
+}
+
+})
+
+},
+
+showdatu:function(em){
+
+UIkit.modal.dialog('<div class="uk-modal-body"><img src="'+jQuery(em).attr('src')+'"></div>');
+
+},
+
+postpinglun: function() {
+
+        if (!jamesonmanhua.uid) {
+
+            showWindow('login', 'member.php?mod=logging&action=login&referer=' + encodeURIComponent(location.href));
+
+            return false;
+
+        }
+
+        var text = trim(jQuery("#pingluntext").val());
+
+        if (!text) {
+
+            jamesonmanhua.tips('没有填写评论内容', '#f00');
+
+            return false;
+
+        } else if (strlen(text) > 400) {
+
+            jamesonmanhua.tips('评论内容不得大于400字', '#f00');
+
+            return false;
+
+        }
+
+        jQuery.post('./plugin.php',{
+
+        	id:'jameson_manhua:ajax',
+
+        	optype:'postpinglun',
+
+        	formhash:'0d212c46',
+
+        	kuid:'2467',
+
+        	text:text,
+
+        	zjid:'68577'
+
+        },  function(res) {
+
+            if (res == 'has') {
+
+                jamesonmanhua.tips('已发布过', '#f00');
+
+            } else if (res != 'success') {
+
+                jamesonmanhua.tips('发布出错请重试', '#f00');
+
+            } else {
+
+                jamesonmanhua.tips('发布成功', '#693');
+
+                var div = '<li><article class="uk-comment uk-visible-toggle"><header class="uk-comment-header uk-position-relative"><div class="uk-grid-medium uk-flex-middle" uk-grid><div class="uk-width-auto"><a href="space-username-.html"><img class="uk-comment-avatar uk-border-circle" src=http://www.zerobyw4.com/uc_server/avatar.php?uid=0&size=middle width="50" height="50" alt=""></a></div><div class="uk-width-expand"><h4 class="uk-comment-title uk-margin-remove"><a class="uk-link-reset" href="home.php?mod=space&amp;uid=0"></a></h4><p class="uk-comment-meta uk-margin-remove-top"><a class="uk-link-reset" href="home.php?mod=space&amp;uid=0"></a></p></div></div></header><div class="uk-comment-body">'
+
+                        +text
+
+                        +'</div></article><hr></li>';
+
+                $('pingluntext').value = '';
+
+                jQuery('#pinglunlist ul').eq(0).prepend( div);
+
+            }
+
+        });
+
+        return false;
+
+    },
+clearfavores:function(el){
+if(!jamesonmanhua.uid){
+
+    		jamesonmanhua.login()
+
+    	}	
+    	jQuery.post('./plugin.php',{
+
+    		optype:'clearfavores',
+
+    		formhash:'0d212c46',
+    		id:'jameson_manhua:ajax'
+
+    	},function(res){
+
+    		if(res=='error'){
+
+    			jamesonmanhua.tips('操作失败','#f00')
+
+    		}else{
+
+    			location.reload()
+
+    		}
+
+    	})
+},
+    favores:function(kuid,em,has){
+
+    	if(!jamesonmanhua.uid){
+
+    		jamesonmanhua.login()
+
+    	}
+
+    	if(jQuery(em).attr('disabled')){
+jamesonmanhua.tips('请勿连续操作哦！','#f00')
+    		return;
+
+    	}
+
+    	jQuery.post('./plugin.php',{
+
+    		optype:'favores',
+
+    		formhash:'0d212c46',
+
+    		kuid:kuid,
+    		has:has,
+    		id:'jameson_manhua:ajax'
+
+    	},function(res){
+
+    		if(res=='error'){
+
+    			jamesonmanhua.tips('操作失败','#f00')
+
+    		}else{
+
+    			jQuery(em).attr('disabled','disabled').text(has>0?'收藏':'已收藏')
+
+    		}
+
+    	})
+
+    },
+
+    moshi:function(flash){
+
+    	setcookie('manhuamoshi',parseInt(flash)==1?2:1,3600000000000)
+
+location.reload();
+
+    },
+
+    dashang:function(){
+
+    	    if (!jamesonmanhua.uid) {
+
+    	        jamesonmanhua.login()
+
+    	        return;
+
+    	    }
+
+    	    if (!jQuery("#dashangnum").length) {
+
+    	        return false;
+
+    	    }
+
+    	    var  tramenum = parseInt($("dstramenum").value)?parseInt($("dstramenum").value):0;
+
+    	    var dashangnum = parseInt($("dashangnum").value)?parseInt($("dashangnum").value):0;
+
+    	    if (dashangnum < 1) {
+
+    	        jamesonmanhua.tips('必须填写大于0的打赏金额', '#f00');
+
+    	        return;
+
+    	    }
+
+    	    if (dashangnum > tramenum) {
+
+    	    	if(jamesonmanhua.chongzhi && confirm('金钱不足，请充值')){
+
+    	    		location.href = jamesonmanhua.chongzhi;
+
+    	    	}else if(!jamesonmanhua.chongzhi){
+
+    	        jamesonmanhua.tips('金钱不足，请充值','#f00');
+
+    	    	}
+
+    	        return false;
+
+    	    }
+
+    	    var authorid = '1';
+
+    	    if(jamesonmanhua.uid==authorid){
+
+    	    	jamesonmanhua.tips('不要打赏自己哦','#f00');
+
+    	    	return;
+
+    	    }
+
+    	    jQuery.post('./plugin.php',{
+
+    	    	id:'jameson_manhua:ajax',
+
+    	    	formhash:'0d212c46',
+
+    	    	optype:'dashang',
+
+    	    	kuid:parseInt("2467"),
+
+    	    	zjid:"68577",
+
+    	    	dashangnum:dashangnum
+
+    	    }, function(res) {
+
+    	        if (res == 'buzu') {
+
+    	            jamesonmanhua.tips('金钱!buzuqingchongzhi!', '#f00');
+
+    	        } else if (res == 'error') {
+
+    	            jamesonmanhua.tips('操作出错请重试', '#f00');
+
+    	        } else if (res == 'success') {
+
+    	            jamesonmanhua.tips('感谢你的打赏', '#693');
+
+    	            jQuery("#dstramenum").val(tramenum - dashangnum);
+
+    	            $("dashangnum").value = '';
+
+    	            jQuery("button[uk-close]").click()
+
+    	        }
+
+    	    });
+
+    	},
+
+    kaiguan:function(em){
+
+    	var isguan = parseInt(jQuery(em).attr('data-status'));
+
+    	console.log(isguan)
+
+    	setcookie('manhuakaiguan',isguan==1?2:1,3600000000000)
+
+   			jQuery("#jameson_manhua").toggleClass('uk-light')
+
+  			jQuery("#jamesonmanhua_zhezhao").toggleClass('none')
+
+    },
+
+    nextimg:function(){
+
+    	var currentimg = parseInt(jQuery("#currentimg").val());
+
+            var allimg = parseInt(jQuery("#allimg").val());
+
+            var next = parseInt('68556');
+
+if(currentimg >= allimg-1){
+
+if(next){
+
+location.href = './plugin.php?id=jameson_manhua&a=read&zjid='+next
+
+}else{
+
+UIkit.notification("已是最后一个章节", {status: 'danger'})
+
+}
+
+}else{
+
+    			slider.slick('slickNext');
+
+}
+
+    },
+
+    previmg:function(){
+
+    	var currentimg = parseInt(jQuery("#currentimg").val());
+
+var prev = parseInt('0');
+
+if(currentimg < 1){
+
+if(prev){
+
+location.href = './plugin.php?id=jameson_manhua&a=read&zjid='+prev
+
+}else{
+
+UIkit.notification("已是第一个章节", {status: 'danger'})
+
+}
+
+}else{
+
+    			slider.slick('slickPrev');
+
+}
+
+    },
+
+    order:function(field,order){
+
+    	var url = location.href;
+
+    	if(!order || (order.toLowerCase()=='desc')){
+
+    		order = 'asc';
+
+    	}else if(order.toLowerCase()=='asc'){
+
+    		order = 'desc';
+
+    	}
+
+    	if(/odfie/i.test(url)){
+
+    		url = url.replace(/odfie=\w+/i,'odfie='+field)
+
+    	}else{
+
+    		url += '&odfie='+field;
+
+    	}
+
+    	if(/order/i.test(url)){
+
+    		url = url.replace(/order=\w+/i,'order='+order)
+
+    	}else{
+
+    		url += '&order='+order;
+
+    	}
+
+    	location.href = url;
+
+    },
+
+    scfmlocal:function(file){
+
+    	if(jQuery.trim('').length){
+
+    		var bar = jQuery("#progressbar")[0];
+
+    		bar.value = 0;
+
+    		bar.removeAttribute('hidden');
+
+    		var ext = file.name.substring(file.name.lastIndexOf('.'));
+
+    		var formData = new FormData;  
+
+    		formData.append('file',file)
+
+    		formData.append('key','mhfm/use0/'+Date.now()+'/'+Math.round(Math.random()*10000)+ext);
+
+    		formData.append('token','');
+
+    	    jQuery.ajax({  
+
+    	        url: "//upload-z2.qiniu.com",  
+
+    	        type: "POST",  
+
+    	        data: formData,
+
+    	        xhr: function(){
+
+    	            myXhr = jQuery.ajaxSettings.xhr();  
+
+    	            if(myXhr.upload){
+
+    	                myXhr.upload.addEventListener('progress',function progressHandlingFunction(e) {  
+
+bar.max =  100;
+
+            bar.value =  e.loaded/e.total*100;
+
+}, false);   
+
+    	            }  
+
+    	            return myXhr;
+
+    	        },  
+
+    	        success: function(result){
+
+    	            if(!result.error){
+
+    	            	jQuery("#manhuafengmian").attr('src','http:///'+result.key);
+
+    	            	jQuery("#wailianimage").val('http:///'+result.key);
+
+    	            	jQuery("#image").remove();
+
+    	            	jQuery("input[data-id='imageclone']").clone(true).attr('id','image').attr('name','image').removeClass('uk-hidden').appendTo("#bendishangchuan");
+
+    	            }else{
+
+    	            	UIkit.notification(result.error,{status: 'danger'});
+
+    	            }
+
+    	            setTimeout(function(){
+
+    			               bar.setAttribute('hidden', 'hidden');
+
+    	            },1000)
+
+    	        },
+
+    	        complete:function(xhr,s){
+
+    	        	if(xhr.status != 200){
+
+    	        		bar.setAttribute('hidden', 'hidden');
+
+    	            	UIkit.notification(xhr.responseJSON.error,{status: 'danger'});
+
+    	        	}
+
+    	        },
+
+    	        contentType: false,
+
+    	        processData: false
+
+    	    });  
+
+    	}
+
+    }
+
+};
+
+jQuery(function(){
+
+if (jQuery('#jamesonmanhua_flash').length) {
+
+    jQuery('.slickflash').slick({
+
+    	dots: true,
+
+    	autoplay: true,
+
+    	arrows: false
+
+    });
+
+}
+
+if(jQuery("#jameson_manhua").width() > 1000){
+
+jQuery("#jameson_manhua").addClass('largewidth')
+
+}
+
+})
+
+</script>
+<script type="text/javascript">
+console.log('2')
+var next = parseInt('68556');
+
+var prev = parseInt('0');
+
+
+jQuery(window).keydown(function(event){
+
+if(event.which==37){
+
+if(prev){
+
+location.href = './plugin.php?id=jameson_manhua&a=read&zjid='+prev
+
+}else{
+
+UIkit.notification("没有了", {status: 'danger'})
+
+}
+
+}else if(event.which==39){
+
+if(next){
+
+location.href = './plugin.php?id=jameson_manhua&a=read&zjid='+next
+
+}else{
+
+UIkit.notification("没有了", {status: 'danger'})
+
+
+
+}
+
+}
+
+});
+      
+jQuery(function(){
+
+jQuery("#jameson_manhua").attr('unselectable', 'on').css('user-select', 'none').on('selectstart', false);
+
+jQuery(document).on("contextmenu",function(e){
+
+                e.preventDefault();
+
+            });
+
+            jQuery(document).ready(function($) {
+
+            	slider = jQuery('.my-slider').slick({
+
+            		dots: false,
+
+            		autoplay: false,
+
+            		arrows: false,
+
+            	    fade:true,
+
+            	    lazyLoad:'ondemand'
+
+            	});
+
+            	jamesonmanhua.jumpimg = function(index){
+
+            		slider.slick('slickGoTo',index);
+
+            	};
+
+            	slider.on('afterChange', function(event, slide, index) {
+
+            		jQuery("#currentimg").val(index);
+
+            		jQuery("#selectimg").val(index);
+
+            	var element = jQuery(".my-slider .slick-track");
+
+            		var h = element.find(".slick-slide").eq(index).find('img').attr('data-height');
+
+            		if(h && h > 15){
+
+            			element.height(h);
+
+            		}else{
+
+            			setTimeout(function(){
+
+            				h = element.find(".slick-slide").eq(index).find('img').attr('data-height');
+
+            				(h && h > 15) && element.height(h);
+
+            				(!h || h < 16) && element.height('auto');
+
+            			},1000)
+
+            		}
+
+            	});
+
+            	slider.on('lazyLoaded', function(event, slick, image, imageSource) {
+
+            		jQuery(image).attr('data-height',jQuery(image).height())
+
+            	});
+
+            	jQuery(window).keydown(function(event){
+
+            		var currentimg = parseInt(jQuery("#currentimg").val());
+
+            		var allimg = parseInt(jQuery("#allimg").val());
+
+            		if(event.which==37){
+
+            			if(currentimg < 1){
+
+            				if(prev){
+
+            					location.href = './plugin.php?id=jameson_manhua&a=read&zjid='+prev
+
+            				}else{
+
+            					UIkit.notification("已是第一个章节", {status: 'danger'})
+
+            				}
+
+            			}else{
+
+            			slider.slick('slickPrev');
+
+            			}
+
+            		}else if(event.which==39){
+
+            			if(currentimg >= allimg-1){
+
+            				if(next){
+
+            					location.href = './plugin.php?id=jameson_manhua&a=read&zjid='+next
+
+            				}else{
+
+            					UIkit.notification("已是最后一个章节", {status: 'danger'})
+
+            				}
+
+            			}else{
+
+            			slider.slick('slickNext');
+
+            			}
+
+            		}
+
+            	});
+
+            });
+
+});
+
+</script>
+</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="archiver/">Archiver</a><span class="pipe">|</span><a href="forum.php?mobile=yes">手机版</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom">小黑屋</a><span class="pipe">|</span><strong><a href="http://www.zerobyw4.com" target="_blank">zero搬运网</a></strong>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120212798-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120212798-1');
+</script>
+</p>
+<p class="xs0">
+GMT+8, 2019-9-12 14:45<span id="debuginfo">
+, Processed in 0.034546 second(s), 6 queries
+, Redis On.
+</span>
+</p>
+</div>
+<div id="frt">
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1568270755" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa"><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+</body>
+</html>
